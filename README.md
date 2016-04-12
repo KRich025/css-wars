@@ -1,4 +1,4 @@
-# css-selectorize
+# CSS-WARS: THE SELECTOR AWAKENS: T
 A static repo to practice css selectors.
 
 You will be use three types of css selectors in this project:

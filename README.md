@@ -1,4 +1,4 @@
-# CSS-WARS: THE SELECTOR AWAKENS: T
+# CSS-WARS: THE SELECTOR AWAKENS
 A static repo to practice css selectors.
 
 You will be use three types of css selectors in this project:
